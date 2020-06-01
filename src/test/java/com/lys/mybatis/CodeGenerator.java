@@ -26,7 +26,7 @@ public class CodeGenerator {
     //项目在硬盘上的基础路径
     private static final String PROJECT_PATH = System.getProperty("user.dir");
     //模板位置
-    private static final String TEMPLATE_FILE_PATH = PROJECT_PATH + "/src/test/resources/generator/template";
+    private static final String TEMPLATE_FILE_PATH = PROJECT_PATH + "/src/test/resources/template";
 
     //java文件路径
     private static final String JAVA_PATH = "/src/main/java";
